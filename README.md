@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to WYP Pages
 
 You can use the [editor on GitHub](https://github.com/shwyppp/shwyppp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
